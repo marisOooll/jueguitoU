@@ -1,0 +1,4 @@
+repository "NanoGame@Tato_Labs@cloud"
+  path "/"
+    br "/main"
+    co "/main"
